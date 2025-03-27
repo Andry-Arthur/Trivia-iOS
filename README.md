@@ -21,23 +21,16 @@ The following **optional** features are implemented:
 
 - [x] Provide the user feedback on whether each question was correct before navigating to the next.
 
-The following **additional** features are implemented:
-
-- [x] Complete later...
-
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Andry Rakotonjanabelo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
